@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body{
+    background: url("https://i.pinimg.com/564x/d5/f1/c8/d5f1c8c81243f44b375a887a9ab05225.jpg") center center;
+    background-size: cover;
+}
